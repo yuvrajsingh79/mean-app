@@ -1,0 +1,26 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "Its a simple MEAN Stack Project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvrajsingh79/mean-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuvrajsingh79/mean-app/issues"
+  },
+  "homepage": "https://github.com/yuvrajsingh79/mean-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongojs": "^2.6.0"
+  }
+}
